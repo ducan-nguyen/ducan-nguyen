@@ -24,7 +24,7 @@
 ### 🔐 User Management System
 - CRUD User + JWT Authentication
 - Tech: Spring Boot + MySQL + React
-- 👉 Demo: (link nếu có)
+- 👉 Demo: 
 
 ---
 
