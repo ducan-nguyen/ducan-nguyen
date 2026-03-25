@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc An</h1>
-<h3 align="center">Backend Developer (Spring Boot) | Frontend (React)</h3>
+<h3 align="center">Frontend Developer (React) | Backend (Spring Boot)</h3>
 
 ---
 
