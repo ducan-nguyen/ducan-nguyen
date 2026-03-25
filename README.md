@@ -29,9 +29,9 @@
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=ngduc-an&show_icons=true)
 
 ---
 
 ## 📫 Contact
-- Email: your-email@gmail.com
+- Email: ducan.nguyen9801@gmail.com
