@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm An Nguyen Duc</h1>
+<h3 align="center">Backend Developer (Spring Boot) | Frontend (React)</h3>
 
-<!--
-**ngduc-an/ngduc-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently learning **Spring Boot & React**
+- 🌱 I’m improving **Backend & Fullstack skills**
+- 💬 Ask me about **Java, React, MySQL**
+- 🎯 Goal: Become a **Backend Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- 💻 Frontend: HTML, CSS, JavaScript, React
+- ⚙️ Backend: Java, Spring Boot
+- 🗄 Database: MySQL
+- 🔧 Tools: Git, Postman
+
+---
+
+## 📌 Featured Projects
+
+### 🔐 User Management System
+- CRUD User + JWT Authentication
+- Tech: Spring Boot + MySQL + React
+- 👉 Demo: (link nếu có)
+
+---
+
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Contact
+- Email: your-email@gmail.com
