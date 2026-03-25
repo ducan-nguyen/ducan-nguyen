@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm An Nguyen Duc</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Duc An</h1>
 <h3 align="center">Backend Developer (Spring Boot) | Frontend (React)</h3>
 
 ---
