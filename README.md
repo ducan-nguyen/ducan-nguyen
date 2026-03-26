@@ -15,8 +15,6 @@
 - [User Management System](https://github.com/ducan-nguyen/user-management-frontend)
 - [Banking App](https://github.com/phantrongvinh/Consumer_Transaction_Management_System)
 
-- 
-
 ---
 
 ## 📊 GitHub Stats
