@@ -5,7 +5,7 @@
 
 ## 🛠 Tech Stack
 React, JavaScript, Spring Boot, MySQL
-
+<img src="https://skillicons.dev/icons?i=react,js,spring,mysql,git" />
 ## 🔥 Featured Projects
 - User Management System (JWT, CRUD)
 - Banking App (React + Redux)
