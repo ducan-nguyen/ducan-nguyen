@@ -13,8 +13,9 @@
 
 ## 🔥 Featured Projects
 - [User Management System](https://github.com/ducan-nguyen/user-management-frontend)
-- [Banking App](https://github.com/phantrongvinh/Consumer_Transaction_Management_System)
-
+- [Banking App](https://github.com/phantrongvinh/Consumer_Transaction_Management_System)  
+  → Team project – Contributed as Frontend Developer (React + Redux Toolkit)
+  
 ---
 
 ## 📫 Contact
