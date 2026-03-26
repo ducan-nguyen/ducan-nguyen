@@ -17,10 +17,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![An's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducan-nguyen&show_icons=true)
-
----
-
 ## 📫 Contact
 - Email: ducan.nguyen9801@gmail.com
